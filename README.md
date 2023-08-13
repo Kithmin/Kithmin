@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kithmin
+- 👋 Hi, I’m @Kithmina
 - 👀 I’m interested in ... coding
 - 🌱 I’m currently learning ...java, phython
 - 💞️ I’m looking to collaborate on ...
