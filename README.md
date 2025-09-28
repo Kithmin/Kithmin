@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN STACK| JAVA | Python| Next.JS| Three.JS | PHP Laravel**
 
-- 👯 I’m currently wrking as a UI/UX Enginner and freelane do Game backend Developer
+- 👯 I’m currently working as a UI/UX Enginner and freelane do Game backend Developer
 
 - 📫 How to reach me **kithmin13rg@gmail.com**
 
