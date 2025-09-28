@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kithmina.</h1>
-<h3 align="center">Full-Stack Developer| Game Developer</h3>
+<h3 align="center">UI/UX Enginner| Game Developer</h3>
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=Welcome+To+My+Profile+.+.+.+.;+.+.+.&center=true"></a>
 </p>
 
-- 🔭 I’m currently undergraduate at **SLIIT.**
+- 🔭 I’m Graduated at **SLIIT.**
 
-- 🌱 I’m currently learning **MERN STACK| Python| Next.JS| Three.JS | PHP Laravel**
+- 🌱 I’m currently learning **MERN STACK| JAVA | Python| Next.JS| Three.JS | PHP Laravel**
 
-- 👯 I’m currently undergraduate in **Interactive Media**
+- 👯 I’m currently wrking as a UI/UX Enginner and freelane do Game backend Developer
 
 - 📫 How to reach me **kithmin13rg@gmail.com**
 
