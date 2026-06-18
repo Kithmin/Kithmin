@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kithmina.</h1>
-<h3 align="center">UI/UX Enginner </h3>
+<h3 align="center">UI/UX Enginner / Project Manager </h3>
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=Welcome+To+My+Profile+.+.+.+.;+.+.+.&center=true"></a>
